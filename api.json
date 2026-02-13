@@ -1,10 +1,8 @@
 {
-  "category": "ENTITY_SPIRIT",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/papa-bois",
     "maintainers": [
       {
@@ -18,629 +16,110 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "papa-bois",
     "name": "Papa Bois",
-    "aliases": [
-      {
-        "name": "Father of the Woods",
-        "language": "English translation",
-        "region": "Trinidad and Tobago",
-        "meaning": "Protector of the forest"
-      },
-      {
-        "name": "Maître Bois",
-        "language": "French Creole",
-        "region": "Caribbean",
-        "meaning": "Master of the Woods"
-      },
-      {
-        "name": "Daddy Bouchon",
-        "language": "Creole",
-        "region": "Trinidad and Tobago",
-        "meaning": "Father Cork/Stopper"
-      },
-      {
-        "name": "The Old Man of the Forest",
-        "language": "English",
-        "region": "Trinidad and Tobago"
-      }
-    ],
+    "aliases": [],
     "category": "ENTITY_SPIRIT",
-    "subcategory": "Nature Guardian",
+    "subcategory": "Local expression of global human need for nature guardians",
     "tags": [
-      "spirit",
-      "forest-guardian",
-      "protector",
-      "nature-deity",
-      "shapeshifter",
-      "trinidad-tobago",
-      "caribbean",
-      "french-creole",
-      "benevolent",
-      "punisher"
+      "while-maintaining-african-essence"
     ],
-    "status": "active",
+    "status": "documented",
     "description": {
-      "summary": "Papa Bois is the ancient guardian spirit of forests and wildlife in Trinidad and Tobago folklore. Appearing as an elderly man with deer or goat hooves and covered in leaves and moss, he protects animals and punishes those who harm nature, while guiding respectful hunters and travelers.",
-      "full": "Papa Bois, the 'Father of the Woods,' is one of Trinidad and Tobago's most revered forest spirits. He appears as an old man with a long white beard, dressed in bark and leaves, with the hooves of a deer or goat instead of feet. Sometimes he carries a twisted wooden staff and wears a wide-brimmed hat made of leaves. As the supreme protector of forests and all wild creatures, Papa Bois watches over the animals with paternal care, punishing poachers and those who overhunt or disrespect nature. However, he is benevolent to those who show proper respect for the forest, guiding lost travelers and teaching hunters traditional etiquette. His origins blend African forest deity traditions with European Green Man mythology and French Creole culture, making him a powerful symbol of environmental conservation and traditional ecological knowledge."
+      "summary": "Papa Bois, the \\\"Father of the Woods,\\\" is the ancient guardian spirit of forests and wildlife in Trinidad and Tobago folklore.",
+      "full": "Papa Bois, the \\\"Father of the Woods,\\\" is the ancient guardian spirit of forests and wildlife in Trinidad and Tobago folklore. He appears as an elderly man with a long white beard, dressed in bark and leaves, with the hooves of a deer or goat instead of feet. As the supreme protector of forests and all wild creatures, Papa Bois watches over the animals with paternal care, punishing poachers and those who overhunt or disrespect nature. However, Papa Bois is not cruel—he is benevolent to those who show proper respect for the forest. He guides lost travelers to safety, teaches hunters traditional etiquette, and maintains the delicate balance between human needs and nature's preservation. His presence represents the embodiment of traditional ecological knowledge and the spiritual dimension of environmental stewardship. Papa Bois emerges from a rich syncretism of West African forest deity traditions (particularly Yoruba Osanyin), European Green Man mythology, and French Creole culture. Today, he remains a vital symbol in Caribbean folklore and environmental education, teaching respect for nature through generations of stories and encounters."
     },
     "etymology": {
-      "origin": "French Creole term combining 'Papa' (father) and 'bois' (woods). Reflects the French colonial influence on Trinidad and Tobago's language and culture, blended with African and Indigenous spiritual traditions.",
-      "meaning": "Father of the Woods, Master of the Forest",
-      "linguistic_roots": "French Creole, with African spiritual framework"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "ENTITY_SPIRIT",
-      "type": "Nature Guardian",
-      "subtype": "Forest Protector",
-      "variant": "Caribbean"
+      "type": "Local expression of global human need for nature guardians",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "mama-dlo",
-        "name": "Mama Dlo",
-        "relationship": "complementary",
-        "description": "Water guardian counterpart, protects rivers and aquatic life"
-      },
-      {
-        "id": "green-man",
-        "name": "Green Man",
-        "relationship": "similar",
-        "description": "European forest deity with vegetation associations"
-      },
-      {
-        "id": "pan",
-        "name": "Pan",
-        "relationship": "similar",
-        "description": "Greek god of wilderness with goat features"
-      },
-      {
-        "id": "leshy",
-        "name": "Leshy",
-        "relationship": "similar",
-        "description": "Slavic forest guardian spirit"
-      },
-      {
-        "id": "curupira",
-        "name": "Curupira",
-        "relationship": "regional_variant",
-        "description": "Brazilian forest protector with backwards feet"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "height": {
-        "min": 1.6,
-        "max": 2.0,
-        "unit": "meters",
-        "confidence": "medium",
-        "notes": "Can appear larger or smaller through shapeshifting"
-      },
-      "apparent_age": "elderly",
-      "coloration": [
-        "earth tones",
-        "green (moss and leaves)",
-        "brown bark",
-        "gray-white (beard and hair)"
-      ],
-      "features": [
-        {
-          "feature": "Hooves",
-          "description": "Deer or goat hooves instead of human feet",
-          "frequency": "always"
-        },
-        {
-          "feature": "Long white beard",
-          "description": "Flowing beard often containing moss, twigs, and living insects",
-          "frequency": "common"
-        },
-        {
-          "feature": "Leafy covering",
-          "description": "Body covered in leaves, moss, bark, and forest vegetation",
-          "frequency": "always"
-        },
-        {
-          "feature": "Wooden staff",
-          "description": "Twisted or gnarled walking stick made from living wood",
-          "frequency": "common"
-        },
-        {
-          "feature": "Leaf hat",
-          "description": "Wide-brimmed hat woven from leaves and branches",
-          "frequency": "occasional"
-        },
-        {
-          "feature": "Horns",
-          "description": "Small antlers or goat horns in some descriptions",
-          "frequency": "occasional"
-        },
-        {
-          "feature": "Glowing eyes",
-          "description": "Eyes that shine green or gold in darkness",
-          "frequency": "occasional"
-        }
-      ],
-      "morphology": "Humanoid upper body with animal lower extremities. Appears as elderly human male with features of forest vegetation and deer/goat characteristics."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Shapeshifting",
-        "description": "Can transform into deer, goat, or other forest animals",
-        "frequency": "common",
-        "evidence_level": "documented"
-      },
-      {
-        "ability": "Animal communication",
-        "description": "Commands and communicates with all forest creatures",
-        "frequency": "always",
-        "evidence_level": "documented"
-      },
-      {
-        "ability": "Forest navigation",
-        "description": "Perfect knowledge of every path and hidden place in the forest",
-        "frequency": "always",
-        "evidence_level": "documented"
-      },
-      {
-        "ability": "Invisibility",
-        "description": "Can become invisible or blend perfectly with forest surroundings",
-        "frequency": "common",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Path confusion",
-        "description": "Causes hunters to become lost or disoriented as punishment",
-        "frequency": "common",
-        "evidence_level": "documented"
-      },
-      {
-        "ability": "Weather influence",
-        "description": "Can summon storms or clear weather within forest",
-        "frequency": "occasional",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Plant growth",
-        "description": "Accelerates growth of trees and vegetation",
-        "frequency": "rare",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Curse/blessing",
-        "description": "Can curse violators or bless respectful visitors",
-        "frequency": "occasional",
-        "evidence_level": "documented"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "any time",
-      "disposition": "protective-neutral",
-      "social_structure": "solitary",
-      "habitat_preference": [
-        "primary rainforest",
-        "old-growth forest",
-        "game trails",
-        "river crossings",
-        "sacred groves"
-      ],
-      "domain": "All wild animals and forest ecosystems",
-      "patterns": [
-        "Watches hunters from concealment",
-        "Tests hunters' respect for nature",
-        "Punishes poachers and overhunting",
-        "Guides respectful people safely",
-        "Protects pregnant animals and young",
-        "Guards sacred forest areas",
-        "Appears before natural disasters"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Primarily Trinidad and Tobago, with related traditions throughout the French Creole Caribbean. Stories concentrated in forested areas, particularly the Northern Range forests of Trinidad.",
-      "continents": ["South America", "Caribbean"],
-      "countries": ["Trinidad and Tobago", "Grenada", "Saint Lucia", "Dominica"],
-      "regions": [
-        "Northern Range Mountains (Trinidad)",
-        "Central Range (Trinidad)",
-        "Tobago Forest Reserve",
-        "Lesser Antilles"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "hotspots": [
-      {
-        "name": "Northern Range",
-        "location": {
-          "description": "Mountain range spanning northern Trinidad",
-          "country": "Trinidad and Tobago",
-          "region": "Northern Trinidad",
-          "coordinates": {
-            "latitude": 10.7285,
-            "longitude": -61.2625
-          }
-        },
-        "encounter_count": 200,
-        "peak_period": "ongoing",
-        "notes": "Primary habitat with densest rainforest coverage"
-      },
-      {
-        "name": "Arena Forest",
-        "location": {
-          "description": "Protected forest reserve in northeast Trinidad",
-          "country": "Trinidad and Tobago",
-          "region": "Trinidad",
-          "coordinates": {
-            "latitude": 10.7167,
-            "longitude": -61.0833
-          }
-        },
-        "encounter_count": 150,
-        "peak_period": "ongoing",
-        "notes": "Traditional hunting grounds with active Papa Bois lore"
-      },
-      {
-        "name": "Tobago Main Ridge",
-        "location": {
-          "description": "Oldest protected forest reserve in Western Hemisphere",
-          "country": "Trinidad and Tobago",
-          "region": "Tobago",
-          "coordinates": {
-            "latitude": 11.2667,
-            "longitude": -60.6833
-          }
-        },
-        "encounter_count": 100,
-        "peak_period": "ongoing",
-        "notes": "Established 1776, rich in folklore traditions"
-      }
-    ],
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "pre-colonial",
+        "date": "Unknown",
         "circa": true,
-        "source": "Oral traditions predate European contact, blending African, Indigenous, and European elements"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "pre-1800s",
-          "description": "Oral tradition period among enslaved Africans and French planters"
-        },
-        {
-          "period": "1800s-1900s",
-          "description": "Peak of traditional hunting culture and folklore transmission"
-        },
-        {
-          "period": "1990s-present",
-          "description": "Cultural revival and environmental conservation symbolism"
-        }
-      ],
-      "seasonal_patterns": "More encounters during hunting seasons (September-March), rainy season increased activity"
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Papa Bois emerges from the syncretic blending of West African forest deity traditions (particularly Yoruba and Akan spirits), French Creole Catholic saint imagery, and Indigenous Caribbean nature spirits. Enslaved Africans adapted their traditional beliefs to the Caribbean environment, creating new guardian spirits.",
-      "earliest_accounts": "Oral traditions from early colonial period (1700s). First written documentation in 19th century folklore collections.",
-      "folklore_connections": "Connected to African Osanyin (Yoruba forest deity), European Green Man, Pan/Faunus mythology, and Indigenous Carib forest spirits."
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "1498",
-        "event": "Spanish arrival in Trinidad",
-        "significance": "Beginning of colonial period that would shape syncretic beliefs",
-        "source": "Historical records"
-      },
-      {
-        "date": "1783",
-        "event": "Cedula of Population",
-        "significance": "French planters bring enslaved Africans; French Creole culture develops",
-        "source": "Colonial documents"
-      },
-      {
-        "date": "1797",
-        "event": "British takeover of Trinidad",
-        "significance": "French Creole traditions preserved despite British rule",
-        "source": "Historical records"
-      },
-      {
-        "date": "1800s",
-        "event": "Folklore consolidation",
-        "significance": "Papa Bois traditions firmly established in oral culture",
-        "source": "Oral traditions"
-      },
-      {
-        "date": "1947",
-        "event": "Andrew Carr's documentation",
-        "significance": "Early anthropological recording of Papa Bois traditions",
-        "source": "Carr, A. \"A Rada Community in Trinidad\""
-      },
-      {
-        "date": "1960s-1970s",
-        "event": "Independence era cultural revival",
-        "significance": "Papa Bois becomes symbol of national folklore identity",
-        "source": "Cultural documentation"
-      },
-      {
-        "date": "1990s-present",
-        "event": "Environmental conservation symbol",
-        "significance": "Papa Bois adopted by conservation movements as ecological guardian",
-        "source": "Contemporary media and education"
-      }
-    ],
-    "modern_era": "Papa Bois remains vibrant in Trinidadian culture, featured in children's literature, educational programs, Carnival costumes, and environmental campaigns. Environmental organizations invoke Papa Bois as a symbol for forest protection and sustainable hunting practices."
+    "timeline": []
   },
-
-  "encounters": {
+  "sightings": {
     "statistics": {
-      "total_documented": 500,
+      "total_documented": 0,
       "verified": 0,
-      "disputed": 450,
-      "debunked": 20,
-      "date_range": {
-        "earliest": "1800s",
-        "latest": "2026"
-      }
+      "disputed": 0,
+      "debunked": 0
     },
-    "typical_encounter_types": [
-      {
-        "type": "Warning appearance",
-        "description": "Papa Bois appears to hunters who are taking too much game or hunting improperly",
-        "frequency": "common",
-        "outcome": "Hunter warned, sometimes cursed with lost game or confusion"
-      },
-      {
-        "type": "Guided journey",
-        "description": "Lost travelers report elderly man guiding them to safety",
-        "frequency": "common",
-        "outcome": "Person safely exits forest, may find guide has vanished or transformed"
-      },
-      {
-        "type": "Animal transformation",
-        "description": "Hunter encounters magnificent deer or goat that leads them astray",
-        "frequency": "common",
-        "outcome": "Hunter becomes lost; animal disappears or reveals itself as Papa Bois"
-      },
-      {
-        "type": "Direct confrontation",
-        "description": "Papa Bois directly confronts poachers or forest destroyers",
-        "frequency": "occasional",
-        "outcome": "Severe punishment: madness, injury, or permanent loss of hunting success"
-      }
-    ],
-    "protective_measures": [
-      "Show respect for forest and wildlife",
-      "Take only what you need",
-      "Avoid hunting pregnant animals or young",
-      "Ask permission before entering deep forest",
-      "Never boast about hunting prowess",
-      "Observe traditional rest days (no hunting Fridays)",
-      "Leave offerings at forest shrines"
-    ]
+    "notable": [],
+    "database_path": "./sightings/"
   },
-
   "evidence": {
-    "physical": [
-      {
-        "type": "hoof prints",
-        "description": "Cloven hoof prints in areas where no deer or goats should be",
-        "status": "anecdotal",
-        "analysis": "Difficult to distinguish from natural wildlife"
-      },
-      {
-        "type": "mysterious paths",
-        "description": "Trails that appear overnight and lead nowhere",
-        "status": "anecdotal",
-        "analysis": "May be natural phenomena or animal trails"
-      }
-    ],
-    "experiential": [
-      {
-        "type": "disorientation",
-        "description": "Experienced hunters becoming lost in familiar territory",
-        "frequency": "common",
-        "analysis": "Could be natural disorientation, but pattern suggests supernatural element to witnesses"
-      },
-      {
-        "type": "guided escapes",
-        "description": "Lost people finding their way out after following elderly man",
-        "frequency": "common",
-        "analysis": "Possibly helpful strangers, but disappearances are unexplained"
-      },
-      {
-        "type": "animal behavior",
-        "description": "Wildlife appearing to protect itself with unusual intelligence",
-        "frequency": "occasional",
-        "analysis": "May be natural animal behavior"
-      }
-    ],
-    "cultural": [
-      {
-        "type": "oral testimony",
-        "description": "Consistent accounts across generations of hunters and forest workers",
-        "status": "extensive",
-        "analysis": "Strong cultural tradition maintains belief"
-      }
-    ]
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
   "theories": {
-    "spiritual": [
-      {
-        "name": "Authentic nature spirit",
-        "description": "Papa Bois is a genuine spiritual guardian of forests, part of the unseen world",
-        "proponents": ["Traditional practitioners", "Spiritual communities"],
-        "evidence_cited": ["Consistent encounters", "Unexplained forest phenomena", "Cultural continuity"]
-      },
-      {
-        "name": "Ancestral spirit collective",
-        "description": "Papa Bois represents the collective spirit of ancestors who knew and protected the forest",
-        "proponents": ["Folklorists", "Cultural anthropologists"],
-        "evidence_cited": ["African ancestor veneration traditions", "Protective function", "Elder appearance"]
-      }
-    ],
-    "psychological": [
-      {
-        "name": "Ecological conscience personified",
-        "description": "Papa Bois embodies traditional ecological knowledge and sustainable practices",
-        "proponents": ["Environmental educators", "Cultural ecologists"],
-        "evidence_cited": ["Teachings align with conservation", "Regulates hunting behavior", "Environmental education value"]
-      },
-      {
-        "name": "Social control mechanism",
-        "description": "Story serves to regulate hunting and resource use through supernatural enforcement",
-        "proponents": ["Anthropologists"],
-        "evidence_cited": ["Behavioral modification", "Resource management", "Community policing"]
-      }
-    ],
-    "skeptical": [
-      {
-        "name": "Misidentification of hermits",
-        "description": "Encounters are with actual forest-dwelling hermits or hunters",
-        "proponents": ["Skeptics"],
-        "evidence_cited": ["Plausible human explanation", "Wilderness hermit traditions"]
-      },
-      {
-        "name": "Cultural narrative",
-        "description": "Purely folkloric tradition without basis in real encounters",
-        "proponents": ["Rationalists"],
-        "evidence_cited": ["No physical evidence", "Similar myths worldwide", "Cultural transmission patterns"]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Papa Bois is one of the 'Old People' of the forest along with Mama Dlo, La Diablesse, and Soucouyant",
-        "Must ask Papa Bois permission before hunting in unfamiliar forest areas",
-        "Hunters observe 'Papa Bois rest day' (often Friday) when no hunting is done",
-        "Whistling in the forest may summon Papa Bois",
-        "Meeting Papa Bois's eyes can cause madness or loss of hunting ability"
-      ],
-      "stories": [
-        "The Hunter Who Lost His Way - Papa Bois leads greedy hunter in circles for three days",
-        "The Respectful Hunter - Papa Bois guides lost child safely home when hunter shows respect",
-        "The Last Manicou - Papa Bois punishes hunter who kills pregnant animal",
-        "The Sacred Deer - Magnificent stag that leads hunters astray is Papa Bois in disguise"
-      ],
-      "beliefs": "Papa Bois is neither good nor evil but represents natural law. He maintains balance in the forest and ensures humans do not take more than their fair share. Respect earns his protection; greed earns his wrath."
-    },
-    "indigenous": {
-      "cultures": [
-        "Trinidadian Creole",
-        "Tobagonian",
-        "French Creole Caribbean"
-      ],
-      "african_roots": [
-        "Yoruba Osanyin (forest deity)",
-        "Akan forest spirit traditions",
-        "Congo nature guardian concepts"
-      ],
-      "european_influences": [
-        "French Catholic saint imagery",
-        "Green Man mythology",
-        "Pan/Faunus archetypes"
-      ],
-      "significance": "Papa Bois represents the synthesis of multiple cultural traditions into uniquely Caribbean spiritual ecology. He embodies traditional ecological knowledge passed down through generations.",
-      "sensitivity_note": "Papa Bois is part of living spiritual tradition for many Trinidadians. Approach with respect for cultural and spiritual significance."
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Lynn Joseph's children's books featuring Papa Bois",
-        "Caribbean folklore collections",
-        "Trinidadian literature and poetry",
-        "Educational materials on Caribbean culture"
-      ],
-      "festivals": [
-        "Trinidad Carnival Papa Bois costumes",
-        "Heritage celebrations",
-        "Environmental education programs"
-      ],
-      "modern_usage": [
-        "Environmental conservation campaigns",
-        "Forestry education programs",
-        "Cultural tourism",
-        "National identity symbol"
-      ],
-      "art": [
-        "Paintings by Carlisle Chang and other Caribbean artists",
-        "Sculptures in public spaces",
-        "Festival masks and costumes",
-        "Children's book illustrations"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
   "research": {
-    "researchers": [
-      {
-        "name": "Andrew Carr",
-        "affiliation": "Independent researcher",
-        "contribution": "Early documentation of Trinidad folklore including Papa Bois",
-        "period": "1940s-1970s"
-      },
-      {
-        "name": "J.D. Elder",
-        "affiliation": "Folklorist",
-        "contribution": "Extensive collection of Trinidad and Tobago folklore",
-        "period": "1960s-1980s"
-      },
-      {
-        "name": "Molly Ahye",
-        "affiliation": "Cultural anthropologist",
-        "contribution": "Documentation of folklore in Trinidadian culture",
-        "period": "1970s-2000s"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "National Folklore Research Centre (Trinidad)",
-        "focus": "Preservation and documentation of Caribbean folklore"
-      },
-      {
-        "name": "Caribbean Cultural Center",
-        "focus": "Caribbean cultural traditions and heritage"
-      }
-    ],
-    "ongoing_studies": "Contemporary research focuses on Papa Bois as environmental education tool, his role in traditional ecological knowledge, and cultural preservation efforts."
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "carr-1953",
-      "type": "article",
-      "title": "A Rada Community in Trinidad",
-      "authors": ["Andrew Carr"],
-      "publication": "Caribbean Quarterly",
-      "date": "1953",
-      "volume": "3",
-      "pages": "35-54"
-    },
-    {
-      "id": "elder-1988",
-      "type": "book",
-      "title": "African Survivals in Trinidad and Tobago",
-      "authors": ["J.D. Elder"],
-      "publication": "Karia Press",
-      "date": "1988",
-      "isbn": "978-9768054005"
-    },
-    {
-      "id": "ahye-1983",
-      "type": "book",
-      "title": "Golden Heritage: The Dance in Trinidad and Tobago",
-      "authors": ["Molly Ahye"],
-      "publication": "Heritage Cultures Ltd",
-      "date": "1983"
-    }
-  ]
+  "sources": []
 }
